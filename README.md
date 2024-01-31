@@ -38,14 +38,26 @@ A robust search functionality empowers admins to locate specific users efficient
 4. The accessToken, crafted by combining email and password with "@@" in between, is transmitted to the frontend.
 5. The frontend automatically redirects to the user management panel upon receiving the accessToken.
 
+![image](https://github.com/Sahani199890/USM_BE_FE/assets/110148973/c4e5aeab-5a34-4422-80cd-ab2d2458b660)
+
+
 ### 2. User Management
 
 1. Admins access a user-friendly table presenting detailed user information.
-2. User deletion is streamlined through the click of a delete button adjacent to each user's details.
-3. Admins can effortlessly add new users, enhancing the versatility of user management.
+![image](https://github.com/Sahani199890/USM_BE_FE/assets/110148973/293b6b3e-8141-4822-a43b-78b895a6caf5)
+
+
+2. Admins can effortlessly add new users, enhancing the versatility of user management.
+ ![image](https://github.com/Sahani199890/USM_BE_FE/assets/110148973/263c2904-e755-4c3f-a8b3-739b70274b64)
+3. User deletion is streamlined through the click of a delete button adjacent to each user's details.
+4. Admin can also edit the details of the user effeortlessly.
+ ![image](https://github.com/Sahani199890/USM_BE_FE/assets/110148973/c771d2fe-d019-4aed-b48c-8c90b52d0fc1)
+
 
 ### 3. Search Users
 
 1. Admins input keywords in the search bar.
 2. Frontend transmits a request to the backend, filtering users based on matching keywords in email, name, and phone number.
 3. Search results are promptly displayed on the user management panel.
+   ![image](https://github.com/Sahani199890/USM_BE_FE/assets/110148973/4f856225-cfc5-473b-8eda-222af51c28f7)
+
